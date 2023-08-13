@@ -1,4 +1,4 @@
-![Play Trove!](https://www.trovegame.com/en/playforfree/)
+[Play Trove!](https://www.trovegame.com/en/playforfree/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bardium&theme=dark&hide=prs,issues&show_icons=true)
 
